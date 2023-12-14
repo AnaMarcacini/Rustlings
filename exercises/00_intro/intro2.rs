@@ -5,8 +5,11 @@
 // Execute `rustlings hint intro2` or use the `hint` watch subcommand for a
 // hint.
 
-// I AM NOT DONE
 
 fn main() {
+<<<<<<< HEAD:exercises/intro/intro2.rs
+    println!("Hello Ana!");
+=======
     printline!("Hello there!")
+>>>>>>> 88b583f2bbf4d7a668db6d83964af5470c93e516:exercises/00_intro/intro2.rs
 }
